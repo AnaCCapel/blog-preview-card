@@ -1,0 +1,100 @@
+ body {
+     height: 100vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+     font-family: var(--font);
+     background-color: var(--bg);
+ }
+
+
+ .container {
+     width: 380px;
+     padding: 22px;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     flex-direction: column;
+     border-radius: 13px;
+     background-color: var(--bg-card);
+     border: 2px solid var(--font-color-first);
+     box-shadow: 8px 8px 0 var(--font-color-first);
+ }
+
+ .container img {
+     border-radius: 13px;
+ }
+
+ .container .infos {
+     margin: 20px 0 10px 0;
+ }
+
+ .container .infos a:first-child {
+     font-weight: 800;
+     padding: 6px 16px;
+     border-radius: 6px;
+     background-color: var(--bg);
+ }
+
+ .container .infos p {
+     margin: 18px 0;
+     font-weight: 600;
+ }
+
+ .container .infos a h1 {
+     font-size: 24px;
+     font-weight: 800;
+ }
+
+ .container .infos a:hover h1 {
+     color: var(--bg);
+ }
+
+ .container .infos .intro {
+     color: var(--font-color-second);
+ }
+
+ .container .profile {
+     width: 100%;
+     display: flex;
+     align-items: center;
+     justify-self: start;
+ }
+
+ .container .profile a img {
+     width: 40px;
+     margin-right: 10px;
+     border-radius: 50%;     
+ }
+
+ .container .profile .name {
+     font-weight: 800;
+ }
+
+ .container .profile a:hover img {
+     border: 2px solid var(--houver);
+     box-shadow:
+         0 0 5px var(--shine),
+         0 0 10px var(--shine),
+         0 0 20px var(--shine),
+         0 0 40px var(--shine);
+ }
+
+ .attribution {
+     font-size: 11px;
+     margin-top: 22px;
+     text-align: center;
+     color: hsl(0, 0%, 100%);
+ }
+
+ .attribution a {
+     color: var(--houver);
+ }
+
+ .attribution a:hover {
+     padding: 4px;
+     border-radius: 4px;
+     color: hsl(0, 0%, 100%);
+     background-color: var(--houver);
+ }
