@@ -16,9 +16,13 @@ This challenge helped me reinforce my **HTML & CSS foundations** — the backbon
 
 ### 🖱️ Active State
 
+<img width="960" height="456" alt="blog-preview-card-active1" src="https://github.com/user-attachments/assets/dc1e07e1-f283-4704-935a-60d7cb207758" /> <img width="960" height="456" alt="blog-preview-card-active2" src="https://github.com/user-attachments/assets/74865fc3-90c1-477c-8b40-d0f4d1838f2b" /> <img width="960" height="456" alt="blog-preview-card-active3" src="https://github.com/user-attachments/assets/c660a610-b10f-408a-85f8-2db616be7222" />
+
 <br>
 
 ### 🖥️ Desktop Design
+
+<img width="960" height="456" alt="blog-preview-card" src="https://github.com/user-attachments/assets/86bf01fa-0e4e-469e-adc1-07656de01781" />
 
 <br>
 
