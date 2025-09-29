@@ -40,7 +40,7 @@
  }
 
  .container .infos p {
-     margin: 18px 0;
+     margin: 10px 0;
      line-height: 24px;
      font-weight: 300;
  }
@@ -66,7 +66,7 @@
  }
 
  .container .profile a img {
-     width: 40px;
+     width: 30px;
      margin-right: 10px;
      border-radius: 50%;
  }
